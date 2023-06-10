@@ -19,6 +19,3 @@ class Huesped:
     def nombre(self, nuevo_nombre):
         self._nombre = nuevo_nombre
     
-
-p = Huesped()
-print(p.nombre)
